@@ -5,6 +5,6 @@ Accept: application/json
 POST https://bcn-fem-tech-http-store-sonia.herokuapp.com/products
 Content-Type: application/x-www-form-urlencoded
 
-neme=galletas&price=2
+name=galletas&price=2
 
 ###
