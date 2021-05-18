@@ -1,8 +1,8 @@
-GET http://localhost:8080/products
+GET https://bcn-fem-tech-http-store-sonia.herokuapp.com/products
 Accept: application/json
 
 ###
-POST http://localhost:8080/products
+POST https://bcn-fem-tech-http-store-sonia.herokuapp.com/products
 Content-Type: application/x-www-form-urlencoded
 
 neme=alpargada&price=23
